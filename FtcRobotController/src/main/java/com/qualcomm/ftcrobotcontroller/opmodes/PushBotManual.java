@@ -24,7 +24,6 @@ public class PushBotManual extends PushBotTelemetry
     // The system calls this member when the class is instantiated.
     //--------
     public PushBotManual ()
-
     {
         //
         // Initialize base classes.
